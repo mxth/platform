@@ -20,9 +20,6 @@
   },
   "homepage": "https://github.com/ngrx/platform#readme",
   "peerDependencies": {
-    "@angular/core": "NG_VERSION",
-    "@ngrx/store": "0.0.0-PLACEHOLDER",
-    "rxjs": "RXJS_VERSION"
   },
   "schematics": "MODULE_SCHEMATICS_COLLECTION",
   "ng-update": {
